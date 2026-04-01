@@ -1,0 +1,142 @@
+2026-03-31 16:18:07,404 [INFO] Scaled targets (x2.0): GK:166  CB:166  LB:84  RB:82  CM:56  CDM:56  CAM:54  LW:84  RW:82  ST:166  total=996
+2026-03-31 16:18:07,405 [INFO] ============================================================
+2026-03-31 16:18:07,405 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 16:18:07,405 [INFO] ============================================================
+2026-03-31 16:18:07,433 [INFO] Resume: 498 players already scraped
+2026-03-31 16:18:16,298 [INFO] Loaded 498 stubs from cache — distribution: GK:83  CB:83  FB:83  MF:83  WA:83  FW:83
+2026-03-31 16:18:16,365 [INFO] Season FC26 done: 498 players, 0 errors → players_FC26.json
+2026-03-31 16:18:16,524 [INFO] ============================================================
+2026-03-31 16:18:16,524 [INFO] SEASON: FC25  (2024/25)
+2026-03-31 16:18:16,524 [INFO] ============================================================
+2026-03-31 16:18:16,558 [INFO] Resume: 498 players already scraped
+2026-03-31 16:18:17,458 [INFO] Loaded 498 stubs from cache — distribution: GK:83  CB:83  FB:83  MF:83  WA:83  FW:83
+2026-03-31 16:18:17,519 [INFO] Season FC25 done: 498 players, 0 errors → players_FC25.json
+2026-03-31 16:18:17,672 [INFO] ============================================================
+2026-03-31 16:18:17,673 [INFO] SEASON: FC24  (2023/24)
+2026-03-31 16:18:17,673 [INFO] ============================================================
+2026-03-31 16:18:17,701 [INFO] Resume: 498 players already scraped
+2026-03-31 16:18:18,602 [INFO] Loaded 498 stubs from cache — distribution: GK:83  CB:83  FB:83  MF:83  WA:83  FW:83
+2026-03-31 16:18:18,655 [INFO] Season FC24 done: 498 players, 0 errors → players_FC24.json
+2026-03-31 16:20:19,391 [INFO] Scaled targets (x2.0): GK:166  CB:166  LB:84  RB:82  CM:56  CDM:56  CAM:54  LW:84  RW:82  ST:166  total=996
+2026-03-31 16:20:19,392 [INFO] ============================================================
+2026-03-31 16:20:19,392 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 16:20:19,392 [INFO] ============================================================
+2026-03-31 16:20:19,414 [INFO] Resume: 498 players already scraped
+2026-03-31 16:20:20,231 [INFO] ── Phase 1 (stratified): FC26 ──
+2026-03-31 16:20:20,231 [INFO]   Targets per group: CB:166  FB:166  FW:166  GK:166  MF:166  WA:166
+2026-03-31 16:20:20,231 [INFO]   offset=0      buckets: GK:0/166  CB:0/166  FB:0/166  MF:0/166  WA:0/166  FW:0/166
+2026-03-31 16:20:24,891 [WARNING] Cloudflare challenge (attempt 1) — sleeping 10s
+2026-03-31 16:20:41,958 [INFO]   Got 60 rows on this page
+2026-03-31 16:20:51,740 [INFO]   After processing: GK:8  CB:11  FB:3  MF:21  WA:8  FW:9
+2026-03-31 16:20:51,740 [INFO]   offset=60     buckets: GK:8/166  CB:11/166  FB:3/166  MF:21/166  WA:8/166  FW:9/166
+2026-03-31 16:20:58,787 [INFO]   Got 60 rows on this page
+2026-03-31 16:21:08,282 [INFO]   After processing: GK:15  CB:17  FB:12  MF:42  WA:17  FW:17
+2026-03-31 16:21:08,282 [INFO]   offset=120    buckets: GK:15/166  CB:17/166  FB:12/166  MF:42/166  WA:17/166  FW:17/166
+2026-03-31 16:21:13,373 [INFO]   Got 60 rows on this page
+2026-03-31 16:21:25,410 [INFO]   After processing: GK:21  CB:28  FB:20  MF:61  WA:28  FW:22
+2026-03-31 16:21:25,410 [INFO]   offset=180    buckets: GK:21/166  CB:28/166  FB:20/166  MF:61/166  WA:28/166  FW:22/166
+2026-03-31 16:21:33,148 [INFO]   Got 60 rows on this page
+2026-03-31 16:21:44,550 [INFO]   After processing: GK:30  CB:39  FB:26  MF:76  WA:37  FW:32
+2026-03-31 16:21:44,550 [INFO]   offset=240    buckets: GK:30/166  CB:39/166  FB:26/166  MF:76/166  WA:37/166  FW:32/166
+2026-03-31 16:21:50,908 [INFO]   Got 60 rows on this page
+2026-03-31 16:22:05,480 [INFO]   After processing: GK:34  CB:54  FB:32  MF:91  WA:53  FW:36
+2026-03-31 16:22:05,481 [INFO]   offset=300    buckets: GK:34/166  CB:54/166  FB:32/166  MF:91/166  WA:53/166  FW:36/166
+2026-03-31 16:22:09,152 [INFO]   Got 60 rows on this page
+2026-03-31 16:22:20,333 [INFO]   After processing: GK:39  CB:64  FB:38  MF:109  WA:65  FW:45
+2026-03-31 16:22:20,333 [INFO]   offset=360    buckets: GK:39/166  CB:64/166  FB:38/166  MF:109/166  WA:65/166  FW:45/166
+2026-03-31 16:22:26,489 [INFO]   Got 60 rows on this page
+2026-03-31 16:22:36,973 [INFO]   After processing: GK:42  CB:76  FB:42  MF:128  WA:77  FW:55
+2026-03-31 16:22:36,973 [INFO]   offset=420    buckets: GK:42/166  CB:76/166  FB:42/166  MF:128/166  WA:77/166  FW:55/166
+2026-03-31 16:22:42,268 [INFO]   Got 60 rows on this page
+2026-03-31 16:22:52,668 [INFO]   After processing: GK:47  CB:90  FB:49  MF:146  WA:86  FW:62
+2026-03-31 16:22:52,668 [INFO]   offset=480    buckets: GK:47/166  CB:90/166  FB:49/166  MF:146/166  WA:86/166  FW:62/166
+2026-03-31 16:22:59,211 [INFO]   Got 60 rows on this page
+2026-03-31 16:23:08,422 [INFO]   After processing: GK:58  CB:99  FB:57  MF:166  WA:91  FW:68
+2026-03-31 16:23:08,422 [INFO]   offset=540    buckets: GK:58/166  CB:99/166  FB:57/166  MF:166/166  WA:91/166  FW:68/166
+2026-03-31 16:23:14,589 [INFO]   Got 60 rows on this page
+2026-03-31 16:23:23,778 [INFO]   After processing: GK:60  CB:110  FB:72  MF:166  WA:100  FW:78
+2026-03-31 16:23:23,778 [INFO]   offset=600    buckets: GK:60/166  CB:110/166  FB:72/166  MF:166/166  WA:100/166  FW:78/166
+2026-03-31 16:23:30,324 [INFO]   Got 60 rows on this page
+2026-03-31 16:23:39,465 [INFO]   After processing: GK:67  CB:120  FB:80  MF:166  WA:105  FW:82
+2026-03-31 16:23:39,466 [INFO]   offset=660    buckets: GK:67/166  CB:120/166  FB:80/166  MF:166/166  WA:105/166  FW:82/166
+2026-03-31 16:23:45,342 [INFO]   Got 60 rows on this page
+2026-03-31 16:23:54,543 [INFO]   After processing: GK:75  CB:132  FB:88  MF:166  WA:115  FW:86
+2026-03-31 16:23:54,544 [INFO]   offset=720    buckets: GK:75/166  CB:132/166  FB:88/166  MF:166/166  WA:115/166  FW:86/166
+2026-03-31 16:24:00,960 [INFO]   Got 60 rows on this page
+2026-03-31 16:24:10,700 [INFO]   After processing: GK:80  CB:143  FB:90  MF:166  WA:126  FW:94
+2026-03-31 16:24:10,701 [INFO]   offset=780    buckets: GK:80/166  CB:143/166  FB:90/166  MF:166/166  WA:126/166  FW:94/166
+2026-03-31 16:24:18,322 [INFO]   Got 60 rows on this page
+2026-03-31 16:24:27,432 [INFO]   After processing: GK:86  CB:150  FB:98  MF:166  WA:140  FW:100
+2026-03-31 16:24:27,432 [INFO]   offset=840    buckets: GK:86/166  CB:150/166  FB:98/166  MF:166/166  WA:140/166  FW:100/166
+2026-03-31 16:24:33,205 [INFO]   Got 60 rows on this page
+2026-03-31 16:24:42,745 [INFO]   After processing: GK:98  CB:161  FB:107  MF:166  WA:149  FW:107
+2026-03-31 16:24:42,747 [INFO]   offset=900    buckets: GK:98/166  CB:161/166  FB:107/166  MF:166/166  WA:149/166  FW:107/166
+2026-03-31 16:24:48,107 [INFO]   Got 60 rows on this page
+2026-03-31 16:24:57,422 [INFO]   After processing: GK:102  CB:166  FB:116  MF:166  WA:160  FW:118
+2026-03-31 16:24:57,422 [INFO]   offset=960    buckets: GK:102/166  CB:166/166  FB:116/166  MF:166/166  WA:160/166  FW:118/166
+2026-03-31 16:25:03,506 [INFO]   Got 60 rows on this page
+2026-03-31 16:25:14,459 [INFO]   After processing: GK:104  CB:166  FB:124  MF:166  WA:166  FW:125
+2026-03-31 16:25:14,459 [INFO]   offset=1020   buckets: GK:104/166  CB:166/166  FB:124/166  MF:166/166  WA:166/166  FW:125/166
+2026-03-31 16:25:21,432 [INFO]   Got 60 rows on this page
+2026-03-31 16:25:35,630 [INFO]   After processing: GK:106  CB:166  FB:138  MF:166  WA:166  FW:131
+2026-03-31 16:25:35,630 [INFO]   offset=1080   buckets: GK:106/166  CB:166/166  FB:138/166  MF:166/166  WA:166/166  FW:131/166
+2026-03-31 16:25:42,850 [INFO]   Got 60 rows on this page
+2026-03-31 16:25:57,139 [INFO]   After processing: GK:115  CB:166  FB:152  MF:166  WA:166  FW:139
+2026-03-31 16:25:57,140 [INFO]   offset=1140   buckets: GK:115/166  CB:166/166  FB:152/166  MF:166/166  WA:166/166  FW:139/166
+2026-03-31 16:26:02,483 [INFO]   Got 60 rows on this page
+2026-03-31 16:26:13,020 [INFO]   After processing: GK:120  CB:166  FB:160  MF:166  WA:166  FW:148
+2026-03-31 16:26:13,020 [INFO]   offset=1200   buckets: GK:120/166  CB:166/166  FB:160/166  MF:166/166  WA:166/166  FW:148/166
+2026-03-31 16:26:20,389 [INFO]   Got 60 rows on this page
+2026-03-31 16:26:29,374 [INFO]   After processing: GK:124  CB:166  FB:165  MF:166  WA:166  FW:154
+2026-03-31 16:26:29,374 [INFO]   offset=1260   buckets: GK:124/166  CB:166/166  FB:165/166  MF:166/166  WA:166/166  FW:154/166
+2026-03-31 16:26:37,045 [INFO]   Got 60 rows on this page
+2026-03-31 16:26:46,548 [INFO]   After processing: GK:130  CB:166  FB:166  MF:166  WA:166  FW:160
+2026-03-31 16:26:46,548 [INFO]   offset=1320   buckets: GK:130/166  CB:166/166  FB:166/166  MF:166/166  WA:166/166  FW:160/166
+2026-03-31 16:26:53,063 [INFO]   Got 60 rows on this page
+2026-03-31 16:27:05,529 [INFO]   After processing: GK:134  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:27:05,529 [INFO]   offset=1380   buckets: GK:134/166  CB:166/166  FB:166/166  MF:166/166  WA:166/166  FW:166/166
+2026-03-31 16:27:09,287 [INFO]   Got 60 rows on this page
+2026-03-31 16:27:19,253 [INFO]   After processing: GK:144  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:27:19,254 [INFO]   offset=1440   buckets: GK:144/166  CB:166/166  FB:166/166  MF:166/166  WA:166/166  FW:166/166
+2026-03-31 16:27:26,749 [INFO]   Got 60 rows on this page
+2026-03-31 16:27:41,461 [INFO]   After processing: GK:146  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:27:41,461 [INFO]   offset=1500   buckets: GK:146/166  CB:166/166  FB:166/166  MF:166/166  WA:166/166  FW:166/166
+2026-03-31 16:27:46,540 [INFO]   Got 60 rows on this page
+2026-03-31 16:27:57,138 [INFO]   After processing: GK:149  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:27:57,138 [INFO]   offset=1560   buckets: GK:149/166  CB:166/166  FB:166/166  MF:166/166  WA:166/166  FW:166/166
+2026-03-31 16:28:03,900 [INFO]   Got 60 rows on this page
+2026-03-31 16:28:17,441 [INFO]   After processing: GK:154  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:28:17,441 [INFO]   offset=1620   buckets: GK:154/166  CB:166/166  FB:166/166  MF:166/166  WA:166/166  FW:166/166
+2026-03-31 16:28:23,922 [INFO]   Got 60 rows on this page
+2026-03-31 16:28:37,005 [INFO]   After processing: GK:158  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:28:37,005 [INFO]   offset=1680   buckets: GK:158/166  CB:166/166  FB:166/166  MF:166/166  WA:166/166  FW:166/166
+2026-03-31 16:28:45,058 [INFO]   Got 60 rows on this page
+2026-03-31 16:28:58,173 [INFO]   After processing: GK:163  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:28:58,173 [INFO]   offset=1740   buckets: GK:163/166  CB:166/166  FB:166/166  MF:166/166  WA:166/166  FW:166/166
+2026-03-31 16:29:05,099 [INFO]   Got 60 rows on this page
+2026-03-31 16:29:15,990 [INFO]   After processing: GK:166  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:29:15,993 [INFO]   All position groups full — stopping list collection
+2026-03-31 16:29:15,993 [INFO] Phase 1 done: 996 stubs for FC26
+2026-03-31 16:29:15,993 [INFO]   Final distribution: GK:166  CB:166  FB:166  MF:166  WA:166  FW:166
+2026-03-31 16:29:16,026 [INFO] [84/996]  (id=235633)
+2026-03-31 16:29:22,346 [INFO] [85/996]  (id=234102)
+2026-03-31 16:29:27,913 [INFO] [86/996]  (id=230670)
+2026-03-31 16:29:34,992 [INFO] [87/996]  (id=224041)
+2026-03-31 16:29:42,597 [INFO] [88/996]  (id=221087)
+2026-03-31 16:29:47,987 [INFO] [89/996]  (id=220407)
+2026-03-31 16:29:54,574 [INFO] [90/996]  (id=220383)
+2026-03-31 16:30:01,150 [INFO] [91/996]  (id=215223)
+2026-03-31 16:30:07,376 [INFO] [92/996]  (id=211990)
+2026-03-31 16:30:13,528 [INFO] [93/996]  (id=211738)
+2026-03-31 16:30:17,849 [INFO] [94/996]  (id=205812)
+2026-03-31 16:30:22,924 [INFO] [95/996]  (id=205186)
+2026-03-31 16:30:29,018 [INFO] [96/996]  (id=200110)
+2026-03-31 16:30:35,302 [INFO] [97/996]  (id=198009)
+2026-03-31 16:30:40,742 [INFO] [98/996]  (id=189908)
+2026-03-31 16:30:47,351 [INFO] [99/996]  (id=182494)
+2026-03-31 16:30:53,576 [INFO] [100/996]  (id=73562)
+2026-03-31 16:30:58,180 [INFO] [101/996]  (id=270821)
+2026-03-31 16:31:03,887 [INFO] [102/996]  (id=263880)
+2026-03-31 16:31:08,588 [INFO] [103/996]  (id=258485)
+2026-03-31 16:31:15,234 [INFO] [104/996]  (id=258466)
+2026-03-31 16:31:22,014 [INFO] [105/996]  (id=239364)
