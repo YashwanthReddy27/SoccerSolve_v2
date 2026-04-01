@@ -30,7 +30,7 @@ logging.basicConfig(
     ],
 )
  
-CHECKPOINT_EVERY = 100
+CHECKPOINT_EVERY = 50
 
 #Data Model
 @dataclass

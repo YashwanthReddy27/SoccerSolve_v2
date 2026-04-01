@@ -1,0 +1,442 @@
+{
+  "total_sofifa": 498,
+  "total_matched": 463,
+  "total_unmatched": 35,
+  "total_ambiguous": 13,
+  "match_rate_pct": 93.0,
+  "avg_match_score": 0.851,
+  "threshold_used": 0.65,
+  "unmatched": [
+    {
+      "sofifa_id": "230182",
+      "name": "Lucas Luciano Mantela Patrício",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "227127",
+      "name": "Alejandro Remiro Gargallo",
+      "season": "FC26",
+      "reason": "best_score=0.63 < threshold=0.65",
+      "candidates": [
+        {
+          "name": "Álex Remiro",
+          "score": 0.63
+        }
+      ]
+    },
+    {
+      "sofifa_id": "228789",
+      "name": "Robert Lynch Sánchez",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230204",
+      "name": "Héniton Enaldo Pires Tramontino",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "269626",
+      "name": "Đorđe Petrović",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230312",
+      "name": "Bernard Gabriel Prestão Chaves",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "232580",
+      "name": "Gabriel dos S. Magalhães",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "278016",
+      "name": "Murillo Costa dos Santos",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "269493",
+      "name": "Alexsandro de Souza Ribeiro",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230347",
+      "name": "Welington Kauê Dano Nascimento",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "241509",
+      "name": "Mauro Jaqueson J. Ferreira Santos",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230201",
+      "name": "Maikel Renan Catarino Fagundes",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230216",
+      "name": "Adnan Claudiano Vidual Machado",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230184",
+      "name": "Ronaldo Diego Essler Domingues",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "220651",
+      "name": "José Ángel Esmoris Tasende",
+      "season": "FC26",
+      "reason": "best_score=0.58 < threshold=0.65",
+      "candidates": [
+        {
+          "name": "Angeliño",
+          "score": 0.579
+        }
+      ]
+    },
+    {
+      "sofifa_id": "255253",
+      "name": "Vítor Machado Ferreira",
+      "season": "FC26",
+      "reason": "best_score=0.56 < threshold=0.65",
+      "candidates": [
+        {
+          "name": "Vitinha",
+          "score": 0.563
+        }
+      ]
+    },
+    {
+      "sofifa_id": "247851",
+      "name": "Bruno Guimarães Moura",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230481",
+      "name": "Ronaldo Jailson Cabrais Petri",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "229391",
+      "name": "João Maria Palhinha Gonçalves",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "227236",
+      "name": "André-Franck Zambo Anguissa",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "218667",
+      "name": "Bernardo Mota Carvalho e Silva",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "216547",
+      "name": "Rafael A. Ferreira Silva",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "200145",
+      "name": "Carlos Henrique Venancio Casimiro",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "238794",
+      "name": "Vinícius José de Oliveira Júnior",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "241721",
+      "name": "Rafael da Conceição Leão",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "257279",
+      "name": "Alejandro Baena Rodríguez",
+      "season": "FC26",
+      "reason": "best_score=0.60 < threshold=0.65",
+      "candidates": [
+        {
+          "name": "Álex Baena",
+          "score": 0.605
+        }
+      ]
+    },
+    {
+      "sofifa_id": "210602",
+      "name": "Salem Al Dawsari",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "243780",
+      "name": "Kang In Lee",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "239482",
+      "name": "Wenderson Nascimento Galeno",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "20801",
+      "name": "C. Ronaldo dos Santos Aveiro",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "200104",
+      "name": "Heung Min Son",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230430",
+      "name": "Marvin Oswaldo Rangel Azevedo",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "275771",
+      "name": "Igor Thiago Rodrigues",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "256612",
+      "name": "F. Evanilson de Lima Barbosa",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    },
+    {
+      "sofifa_id": "230498",
+      "name": "Luan Vágner Boas Macedo",
+      "season": "FC26",
+      "reason": "no TM candidates found"
+    }
+  ],
+  "ambiguous": [
+    {
+      "sofifa_id": "200389",
+      "name": "Jan Oblak",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Jan Oblak",
+          "score": 0.815
+        },
+        {
+          "name": "Marjan Oblak",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "202811",
+      "name": "Emiliano Martínez",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Daniel Martínez",
+          "score": 0.833
+        },
+        {
+          "name": "Emiliano Martínez",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "229582",
+      "name": "Gianluca Mancini",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Gianluca Mancini",
+          "score": 0.95
+        },
+        {
+          "name": "Gianluca Mancini",
+          "score": 0.95
+        }
+      ]
+    },
+    {
+      "sofifa_id": "238095",
+      "name": "Nikola Milenković",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Nikola Milenković",
+          "score": 0.815
+        },
+        {
+          "name": "Nikola Milenković",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "270531",
+      "name": "Ousmane Diomande",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Ousmane Diomande",
+          "score": 0.815
+        },
+        {
+          "name": "Ousmane Diomandé",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "217870",
+      "name": "Giovanni Di Lorenzo",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Giovanni Di Lorenzo",
+          "score": 0.815
+        },
+        {
+          "name": "Giovanni Di Lorenzo",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "233301",
+      "name": "Rasmus Kristensen",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Rasmus Kristensen",
+          "score": 0.815
+        },
+        {
+          "name": "Rasmus Kristensen",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "205988",
+      "name": "Luke Shaw",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Luke Shaw",
+          "score": 0.815
+        },
+        {
+          "name": "Luke Shaw",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "247090",
+      "name": "Enzo Fernández",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Enzo Fernández",
+          "score": 0.815
+        },
+        {
+          "name": "Lorenzo Fernández",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "207410",
+      "name": "Mateo Kovačić",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Mateo Kovacic",
+          "score": 0.874
+        },
+        {
+          "name": "Mateo Kovacic",
+          "score": 0.874
+        }
+      ]
+    },
+    {
+      "sofifa_id": "241084",
+      "name": "Luis Díaz",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Luis Díaz",
+          "score": 0.815
+        },
+        {
+          "name": "Luis Díaz",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "241852",
+      "name": "Moussa Diaby",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Moussa Diaby",
+          "score": 0.815
+        },
+        {
+          "name": "Moussa Diaby",
+          "score": 0.815
+        }
+      ]
+    },
+    {
+      "sofifa_id": "246191",
+      "name": "Julián Alvarez",
+      "season": "FC26",
+      "top2": [
+        {
+          "name": "Julián Alvarez",
+          "score": 0.815
+        },
+        {
+          "name": "Julián Álvarez",
+          "score": 0.815
+        }
+      ]
+    }
+  ]
+}

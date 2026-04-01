@@ -140,3 +140,77 @@
 2026-03-31 16:31:08,588 [INFO] [103/996]  (id=258485)
 2026-03-31 16:31:15,234 [INFO] [104/996]  (id=258466)
 2026-03-31 16:31:22,014 [INFO] [105/996]  (id=239364)
+2026-03-31 22:28:25,647 [INFO] Scaled targets (x2.0): GK:166  CB:166  LB:84  RB:82  CM:56  CDM:56  CAM:54  LW:84  RW:82  ST:166  total=996
+2026-03-31 22:28:25,647 [INFO] ============================================================
+2026-03-31 22:28:25,647 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 22:28:25,647 [INFO] ============================================================
+2026-03-31 22:28:25,662 [INFO] Resume: 498 players already scraped
+2026-03-31 22:28:26,610 [INFO] Loaded 498 stubs from cache — distribution: GK:83  CB:83  FB:83  MF:83  WA:83  FW:83
+2026-03-31 22:28:26,675 [INFO] Season FC26 done: 498 players, 0 errors → players_FC26.json
+2026-03-31 22:28:39,078 [INFO] Scaled targets (x2.0): GK:166  CB:166  LB:84  RB:82  CM:56  CDM:56  CAM:54  LW:84  RW:82  ST:166  total=996
+2026-03-31 22:28:39,078 [INFO] ============================================================
+2026-03-31 22:28:39,078 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 22:28:39,078 [INFO] ============================================================
+2026-03-31 22:28:39,111 [INFO] Resume: 498 players already scraped
+2026-03-31 22:28:39,949 [INFO] Loaded 498 stubs from cache — distribution: GK:83  CB:83  FB:83  MF:83  WA:83  FW:83
+2026-03-31 22:28:40,005 [INFO] Season FC26 done: 498 players, 0 errors → players_FC26.json
+2026-03-31 22:28:46,307 [INFO] Scaled targets (x3.0): GK:249  CB:249  LB:126  RB:123  CM:84  CDM:84  CAM:81  LW:126  RW:123  ST:249  total=1494
+2026-03-31 22:28:46,308 [INFO] ============================================================
+2026-03-31 22:28:46,308 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 22:28:46,308 [INFO] ============================================================
+2026-03-31 22:28:46,338 [INFO] Resume: 498 players already scraped
+2026-03-31 22:28:47,257 [INFO] Loaded 498 stubs from cache — distribution: GK:83  CB:83  FB:83  MF:83  WA:83  FW:83
+2026-03-31 22:28:47,326 [INFO] Season FC26 done: 498 players, 0 errors → players_FC26.json
+2026-03-31 22:28:58,417 [INFO] Scaled targets (x2.0): GK:166  CB:166  LB:84  RB:82  CM:56  CDM:56  CAM:54  LW:84  RW:82  ST:166  total=996
+2026-03-31 22:28:58,422 [INFO] ============================================================
+2026-03-31 22:28:58,422 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 22:28:58,422 [INFO] ============================================================
+2026-03-31 22:28:58,449 [INFO] Resume: 498 players already scraped
+2026-03-31 22:28:59,336 [INFO] Loaded 498 stubs from cache — distribution: GK:83  CB:83  FB:83  MF:83  WA:83  FW:83
+2026-03-31 22:28:59,388 [INFO] Season FC26 done: 498 players, 0 errors → players_FC26.json
+2026-03-31 22:30:59,038 [INFO] Scaled targets (x2.0): GK:166  CB:166  LB:84  RB:82  CM:56  CDM:56  CAM:54  LW:84  RW:82  ST:166  total=996
+2026-03-31 22:30:59,038 [INFO] ============================================================
+2026-03-31 22:30:59,038 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 22:30:59,038 [INFO] ============================================================
+2026-03-31 22:30:59,051 [INFO] Resume: 498 players already scraped
+2026-03-31 22:30:59,944 [INFO] ── Phase 1 (stratified): FC26 ──
+2026-03-31 22:30:59,945 [INFO]   Targets per group: CB:166  FB:166  FW:166  GK:166  MF:166  WA:166
+2026-03-31 22:30:59,945 [INFO]   offset=0      buckets: GK:0/166  CB:0/166  FB:0/166  MF:0/166  WA:0/166  FW:0/166
+2026-03-31 22:31:05,055 [WARNING] Cloudflare challenge (attempt 1) — sleeping 10s
+2026-03-31 22:31:20,988 [INFO]   Got 60 rows on this page
+2026-03-31 22:31:42,464 [INFO]   After processing: GK:8  CB:11  FB:3  MF:21  WA:8  FW:9
+2026-03-31 22:31:42,464 [INFO]   offset=60     buckets: GK:8/166  CB:11/166  FB:3/166  MF:21/166  WA:8/166  FW:9/166
+2026-03-31 22:31:48,786 [INFO]   Got 60 rows on this page
+2026-03-31 22:32:01,535 [INFO]   After processing: GK:15  CB:17  FB:12  MF:42  WA:17  FW:17
+2026-03-31 22:32:01,536 [INFO]   offset=120    buckets: GK:15/166  CB:17/166  FB:12/166  MF:42/166  WA:17/166  FW:17/166
+2026-03-31 22:32:08,593 [INFO]   Got 60 rows on this page
+2026-03-31 22:32:26,971 [INFO]   After processing: GK:21  CB:28  FB:20  MF:61  WA:28  FW:22
+2026-03-31 22:32:26,971 [INFO]   offset=180    buckets: GK:21/166  CB:28/166  FB:20/166  MF:61/166  WA:28/166  FW:22/166
+2026-03-31 22:32:33,782 [INFO]   Got 60 rows on this page
+2026-03-31 22:32:47,404 [INFO]   After processing: GK:30  CB:39  FB:26  MF:76  WA:37  FW:32
+2026-03-31 22:32:47,404 [INFO]   offset=240    buckets: GK:30/166  CB:39/166  FB:26/166  MF:76/166  WA:37/166  FW:32/166
+2026-03-31 22:32:54,720 [INFO]   Got 60 rows on this page
+2026-03-31 22:33:07,980 [INFO]   After processing: GK:34  CB:54  FB:32  MF:91  WA:53  FW:36
+2026-03-31 22:33:07,980 [INFO]   offset=300    buckets: GK:34/166  CB:54/166  FB:32/166  MF:91/166  WA:53/166  FW:36/166
+2026-03-31 22:33:15,685 [INFO]   Got 60 rows on this page
+2026-03-31 22:34:04,613 [INFO] Scaled targets (x2.0): GK:166  CB:166  LB:84  RB:82  CM:56  CDM:56  CAM:54  LW:84  RW:82  ST:166  total=996
+2026-03-31 22:34:04,613 [INFO] ============================================================
+2026-03-31 22:34:04,613 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 22:34:04,613 [INFO] ============================================================
+2026-03-31 22:34:05,505 [INFO] ── Phase 1 (stratified): FC26 ──
+2026-03-31 22:34:05,506 [INFO]   Targets per group: CB:166  FB:166  FW:166  GK:166  MF:166  WA:166
+2026-03-31 22:34:05,506 [INFO]   offset=0      buckets: GK:0/166  CB:0/166  FB:0/166  MF:0/166  WA:0/166  FW:0/166
+2026-03-31 22:34:10,833 [WARNING] Cloudflare challenge (attempt 1) — sleeping 10s
+2026-03-31 22:34:27,995 [INFO]   Got 60 rows on this page
+2026-03-31 22:34:55,378 [INFO] Scaled targets (x2.0): GK:166  CB:166  LB:84  RB:82  CM:56  CDM:56  CAM:54  LW:84  RW:82  ST:166  total=996
+2026-03-31 22:34:55,378 [INFO] ============================================================
+2026-03-31 22:34:55,378 [INFO] SEASON: FC26  (2025/26)
+2026-03-31 22:34:55,378 [INFO] ============================================================
+2026-03-31 22:34:55,380 [INFO] Resume: 498 players already scraped
+2026-03-31 22:34:56,173 [INFO] ── Phase 1 (stratified): FC26 ──
+2026-03-31 22:34:56,173 [INFO]   Targets per group: CB:166  FB:166  FW:166  GK:166  MF:166  WA:166
+2026-03-31 22:34:56,175 [INFO]   offset=0      buckets: GK:0/166  CB:0/166  FB:0/166  MF:0/166  WA:0/166  FW:0/166
+2026-03-31 22:34:59,778 [WARNING] Cloudflare challenge (attempt 1) — sleeping 10s
+2026-03-31 22:35:15,086 [INFO]   Got 60 rows on this page
+2026-03-31 22:35:31,921 [INFO]   After processing: GK:8  CB:11  FB:3  MF:21  WA:8  FW:9
+2026-03-31 22:35:31,921 [INFO]   offset=60     buckets: GK:8/166  CB:11/166  FB:3/166  MF:21/166  WA:8/166  FW:9/166
