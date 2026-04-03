@@ -1,32 +1,3 @@
-"""
-train_model.py
-==============
-Step 3: Train XGBoost market value regression models.
-
-Strategy for small dataset (463 players):
-  1. Global model (all positions) — best overall R2, used as primary model
-  2. Position encoded as a feature (0-5) not a split criterion
-  3. Shallow trees + high regularisation for small dataset
-
-Per-group R2 reported separately for the eval report.
-SHAP computed per player and per group for feature importance.
-
-Outputs to data/models/
-  model_global.json         primary model
-  scaler_global.pkl         StandardScaler
-  features_global.json      feature list in order
-  model_global_ci_low.json  10th percentile (confidence interval bonus)
-  model_global_ci_high.json 90th percentile
-  shap_global.csv           SHAP values for all players
-  feature_importance.json   importance ranked globally + per group
-  eval_report.json          metrics globally + per group
-
-Run
----
-  python train_model.py
-  python train_model.py --no-shap
-"""
-
 from __future__ import annotations
 import argparse
 import json
